@@ -1,0 +1,11 @@
+Logged in as Unknown
+Logged in as Unknown
+Registered as testUser
+Logged in as testUser
+Logged in as testUser
+Logged in as testUser
+Logged in as testUser
+Logged out | Username: testUser
+Registered as testUser
+Logged in as testUser
+Logged out | Username: testUser
